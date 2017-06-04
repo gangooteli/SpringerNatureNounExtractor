@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="CommonNounExtractor/src"/>
+	<classpathentry kind="lib" path="CommonNounExtractor/lib/jackson-annotations-2.8.3.jar"/>
+	<classpathentry kind="lib" path="CommonNounExtractor/lib/jackson-core-2.8.3.jar"/>
+	<classpathentry kind="lib" path="CommonNounExtractor/lib/jackson-databind-2.8.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="CommonNounExtractor/lib/protobuf-java-2.6.1.jar"/>
+	<classpathentry kind="lib" path="CommonNounExtractor/lib/stanford-corenlp-3.7.0.jar"/>
+	<classpathentry kind="output" path="CommonNounExtractor/bin"/>
+</classpath>
