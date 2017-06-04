@@ -31,3 +31,7 @@ Steps to run the project
 2. Right Click on imported project Run As -> Run Configurations->Arguments Tab
 3. Copy path of input review json file.
 4. Click Run
+
+Output:
+1. The output3.txt contains the final output generated using this program.
+2. https://github.com/gangooteli/SpringerNatureNounExtractor/blob/master/CommonNounExtractor/output/output3.txt
