@@ -8,7 +8,7 @@ Logic:
 3. Example: Great/JJ purchase/NN; outlets/NNS; chargers/NNS
 4. Lemmatized the plural words to singular word using Stanford CoreNLP
 5. Example: chargers ==> charger , products ==> products
-6. For occurrence of Adjective with Noun, converted it into one word by adding using _ sign.
+6. For occurrence of Adjective with Noun, converted it into one word by adding using underscore "_" sign.
 7. Example: good product ==> good_product
 8. Count the number of occurrence of words and stored it in HashMap using keys as words and values as frequency of words.
 9. Example: Key: "good_product" Value: 5
